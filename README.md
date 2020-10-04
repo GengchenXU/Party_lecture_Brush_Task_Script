@@ -3,7 +3,7 @@
 
 如果是OUC学生复制粘贴即可使用，如果为其他学校
 可以直接修改代码中的 @match 部分,
-![](https://github.com/GengchenXU/Party_lecture_Brush_Task_Script/blob/main/2020-10-04_21-51-13.png)
+![](https://github.com/GengchenXU/Party_lecture_Brush_Task_Script/blob/main/2020-10-04_21-51-13.png)  
 不过如果这样改的话每次更新都需要重新修改一遍，比较麻烦。
 
 推荐的方法是在设置中修改 用户匹配 或 用户包括 部分。
