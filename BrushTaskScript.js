@@ -2,7 +2,7 @@
 // @name        Dangke Tools
 // @version     1.0
 // @description Dangke Tools: 党课刷课工具
-// @author      xxx (original author ShiZitou)
+// @author      xxx (original author [Rorwey](https://github.com/Rorwey))
 // @match       http*://dxzx.webvpn.ouc.edu.cn/*
 // @match       http*://dxzx.vpn.ouc.edu.cn/*
 // @match       http*://dxzx.ouc.edu.cn/*
