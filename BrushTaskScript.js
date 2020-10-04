@@ -1,6 +1,6 @@
 // ==UserScript==
 // @name        Dangke Tools
-// @version     0.4.8
+// @version     1.0
 // @description Dangke Tools: 党课刷课工具
 // @author      xxx (original author ShiZitou)
 // @match       http*://dxzx.webvpn.ouc.edu.cn/*
