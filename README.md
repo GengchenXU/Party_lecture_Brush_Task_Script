@@ -1,7 +1,7 @@
 # Party_lecture_Brush_Task_Script
 该脚本需配合油猴([Tampermonkey](https://chrome.google.com/webstore/detail/tampermonkey/dhdgffkkebhmkfjojejmpbldmpobfkfo?hl=zh-CN))或 暴力猴([Violent monkey](https://chrome.google.com/webstore/detail/violentmonkey/jinjaccalgkegednnccohejagnlnfdag?hl=zh-CN)) 插件使用
 
-如果是OUC复制粘贴即可使用，如果为其他学校
+如果是OUC学生复制粘贴即可使用，如果为其他学校
 可以直接修改代码中的 @match 部分，不过如果这样改的话每次更新都需要重新修改一遍，比较麻烦。
 
 推荐的方法是在设置中修改 用户匹配 或 用户包括 部分。
